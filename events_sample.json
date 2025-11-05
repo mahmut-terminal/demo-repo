@@ -1,0 +1,46 @@
+{
+  "2025-11-05": [
+    {
+      "title": "Proje Toplantısı",
+      "time": "10:00",
+      "type": "toplantı",
+      "description": "Yeni özellikler için ekip toplantısı"
+    },
+    {
+      "title": "Kod Review",
+      "time": "14:30",
+      "type": "görev",
+      "description": "Pull request'leri gözden geçir"
+    }
+  ],
+  "2025-11-06": [
+    {
+      "title": "Doktor Randevusu",
+      "time": "09:30",
+      "type": "etkinlik",
+      "description": "Yıllık kontrol"
+    }
+  ],
+  "2025-11-10": [
+    {
+      "title": "Haftalık Planlama",
+      "time": "11:00",
+      "type": "toplantı",
+      "description": "Haftanın hedeflerini belirle"
+    },
+    {
+      "title": "Spor",
+      "time": "18:00",
+      "type": "etkinlik",
+      "description": "Gym antrenmanı"
+    }
+  ],
+  "2025-11-15": [
+    {
+      "title": "Proje Teslimi",
+      "time": "17:00",
+      "type": "görev",
+      "description": "Q4 projesi son teslim tarihi"
+    }
+  ]
+}
