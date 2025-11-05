@@ -32,19 +32,35 @@ Python 3.6 veya üzeri bir sürüm görmelisiniz. Eğer yüklü değilse, [pytho
 
 ### 2. Uygulamayı Çalıştırın
 
-Proje klasörüne gidin ve uygulamayı başlatın:
+**EN KOLAY YOL** - Proje klasörüne gidin ve Python ile çalıştırın:
 
 ```bash
-cd /yol/demo-repo
+cd /Users/KULLANICI_ADINIZ/Desktop/takvim
 python3 calendar_app.py
 ```
 
-Alternatif olarak, çalıştırılabilir hale getirip direkt çalıştırabilirsiniz:
+**Alternatif 1** - Başlatıcı Python scripti ile:
 
 ```bash
-chmod +x calendar_app.py
-./calendar_app.py
+cd /Users/KULLANICI_ADINIZ/Desktop/takvim
+python3 start.py
 ```
+
+**Alternatif 2** - Bash scripti ile (Terminal kullanıcıları için):
+
+```bash
+cd /Users/KULLANICI_ADINIZ/Desktop/takvim
+bash run.sh
+```
+
+veya çalıştırılabilir yapın:
+
+```bash
+chmod +x run.sh
+./run.sh
+```
+
+**ÖNEMLİ**: `python3 run.sh` yazmayın! `run.sh` bir bash scriptidir, Python scripti değil.
 
 ### 3. Kolay Erişim için Alias Oluşturun (Opsiyonel)
 
